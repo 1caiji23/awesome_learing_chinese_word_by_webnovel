@@ -330,5 +330,6 @@ I am a student from China. If you like this project:
 
 ## Copyright Statement
 
-This project is only for learning Chinese and does not involve any commercial purposes. All reading materials are copyrighted by their respective authors and are for learning and communication purposes only.#
+This project is only for learning Chinese and does not involve any commercial purposes. All reading materials are copyrighted by their respective authors and are for learning and communication purposes only.
+
  
